@@ -1,0 +1,221 @@
+product_id,product_name,category,subcategory,supplier_id,brand,unit_cost,unit_price,weight_kg,storage_type,shelf_life_days,introduction_date,discontinuation_date,is_seasonal,season_peak
+PROD-1000,Product 0,Furniture,SubCat15,SUP-22,Brand16,9.95,1013.83,5.13,Fragile,180.0,2024-05-28,2025-11-17,0,Nov-Dec
+PROD-1001,Product 1,Books,SubCat7,SUP-17,Brand16,116.99,1116.37,13.94,Fragile,60.0,2024-06-16,2026-01-04,1,Jun-Aug
+PROD-1002,Product 2,Electronics,SubCat1,SUP-18,Brand15,122.03,89.15,1.6,Frozen,,2024-03-02,2025-10-24,1,
+PROD-1003,Product 3,Home Appliances,SubCat3,SUP-20,Brand1,342.27,254.66,3.41,Frozen,30.0,2024-01-04,2025-12-25,0,Sep-Oct
+PROD-1004,Product 4,Books,SubCat12,SUP-11,Brand3,305.78,807.02,4.41,Fragile,60.0,2024-09-11,2026-02-13,1,Nov-Dec
+PROD-1005,Product 5,Beauty,SubCat15,SUP-15,Brand10,416.93,433.58,5.96,Fragile,,2024-08-08,2025-09-15,1,
+PROD-1006,Product 6,Home Appliances,SubCat6,SUP-20,Brand8,88.34,308.73,19.92,Frozen,30.0,2024-03-30,2026-02-17,1,Sep-Oct
+PROD-1007,Product 7,Books,SubCat13,SUP-17,Brand13,196.75,357.87,13.97,Refrigerated,365.0,2024-03-07,2026-03-20,0,Nov-Dec
+PROD-1008,Product 8,Grocery,SubCat15,SUP-14,Brand8,92.75,390.45,7.75,Refrigerated,90.0,2024-07-13,2025-10-09,0,Sep-Oct
+PROD-1009,Product 9,Sports,SubCat7,SUP-18,Brand10,378.17,1019.16,14.77,Fragile,180.0,2024-09-29,2025-12-08,0,Jun-Aug
+PROD-1010,Product 10,Furniture,SubCat13,SUP-15,Brand12,213.73,168.26,18.31,Refrigerated,,2024-12-26,2025-09-20,1,
+PROD-1011,Product 11,Electronics,SubCat11,SUP-06,Brand16,105.55,852.15,19.18,Fragile,365.0,2024-04-27,2025-12-07,1,Sep-Oct
+PROD-1012,Product 12,Books,SubCat14,SUP-16,Brand17,284.71,665.62,1.25,Ambient,,2024-09-13,2026-01-29,1,Sep-Oct
+PROD-1013,Product 13,Sports,SubCat12,SUP-15,Brand12,17.59,359.33,7.95,Frozen,90.0,2024-10-13,2025-09-12,1,
+PROD-1014,Product 14,Home Appliances,SubCat13,SUP-09,Brand14,421.46,506.64,2.22,Fragile,90.0,2024-12-08,2026-02-10,0,Nov-Dec
+PROD-1015,Product 15,Books,SubCat4,SUP-08,Brand11,225.98,311.17,6.78,Fragile,60.0,2024-06-30,2025-11-05,0,
+PROD-1016,Product 16,Clothing,SubCat5,SUP-21,Brand12,198.78,735.76,3.48,Fragile,180.0,2024-02-06,,1,Sep-Oct
+PROD-1017,Product 17,Sports,SubCat3,SUP-09,Brand15,463.48,102.51,12.97,Refrigerated,180.0,2024-07-22,2026-01-18,0,Mar-May
+PROD-1018,Product 18,Beauty,SubCat13,SUP-17,Brand9,364.18,11.2,7.83,Fragile,,2024-01-22,2025-11-23,0,Nov-Dec
+PROD-1019,Product 19,Sports,SubCat12,SUP-16,Brand10,164.62,755.33,4.66,Ambient,90.0,2024-08-11,2026-02-18,0,Sep-Oct
+PROD-1020,Product 20,Electronics,SubCat2,SUP-21,Brand9,286.08,237.16,5.39,Refrigerated,180.0,2024-01-10,2025-10-28,0,Mar-May
+PROD-1021,Product 21,Beauty,SubCat7,SUP-08,Brand8,261.38,89.77,7.27,Frozen,30.0,2024-08-23,2026-01-26,1,Nov-Dec
+PROD-1022,Product 22,Furniture,SubCat14,SUP-09,Brand4,480.66,479.16,5.27,Ambient,180.0,2024-02-09,2025-11-28,1,Jun-Aug
+PROD-1023,Product 23,Electronics,SubCat1,SUP-15,Brand7,422.58,65.67,9.12,Fragile,,2024-06-09,2025-11-10,1,
+PROD-1024,Product 24,Home Appliances,SubCat14,SUP-03,Brand11,374.17,1064.51,0.74,Ambient,365.0,2024-10-21,,0,Nov-Dec
+PROD-1025,Product 25,Beauty,SubCat8,SUP-10,Brand4,270.77,38.0,5.67,Fragile,365.0,2024-08-07,2025-11-19,0,Nov-Dec
+PROD-1026,Product 26,Books,SubCat4,SUP-08,Brand6,294.2,696.74,8.28,Ambient,180.0,2024-10-20,2026-01-18,1,Sep-Oct
+PROD-1027,Product 27,Clothing,SubCat4,SUP-09,Brand7,482.7,528.98,12.1,Refrigerated,60.0,2024-07-26,2026-02-18,1,Mar-May
+PROD-1028,Product 28,Electronics,SubCat14,SUP-11,Brand7,304.3,808.07,5.49,Fragile,90.0,2024-12-29,2025-11-20,0,Nov-Dec
+PROD-1029,Product 29,Clothing,SubCat15,SUP-11,Brand16,139.45,397.14,2.75,Refrigerated,365.0,2024-11-23,2025-12-10,1,
+PROD-1030,Product 30,Home Appliances,SubCat8,SUP-18,Brand9,149.54,190.27,1.62,Ambient,,2024-08-01,2026-02-03,1,Nov-Dec
+PROD-1031,Product 31,Home Appliances,SubCat6,SUP-03,Brand17,84.3,1178.3,18.82,Fragile,,2024-05-28,2026-01-01,1,Nov-Dec
+PROD-1032,Product 32,Furniture,SubCat5,SUP-05,Brand10,9.79,1007.53,8.39,Frozen,90.0,2024-02-28,,1,Sep-Oct
+PROD-1033,Product 33,Home Appliances,SubCat14,SUP-05,Brand4,212.85,1033.18,11.67,Frozen,90.0,2024-07-26,2025-12-20,1,Nov-Dec
+PROD-1034,Product 34,Sports,SubCat13,SUP-08,Brand7,198.65,304.05,18.39,Fragile,90.0,2024-01-11,2026-01-30,1,Mar-May
+PROD-1035,Product 35,Sports,SubCat14,SUP-13,Brand10,148.16,51.41,1.75,Ambient,365.0,2024-06-15,2026-03-11,0,Sep-Oct
+PROD-1036,Product 36,Furniture,SubCat4,SUP-05,Brand8,9.01,367.4,17.55,Frozen,,2024-03-28,2026-03-24,1,Jun-Aug
+PROD-1037,Product 37,Sports,SubCat4,SUP-07,Brand12,101.02,646.81,11.08,Fragile,90.0,2024-11-12,2026-03-06,1,Jun-Aug
+PROD-1038,Product 38,Books,SubCat1,SUP-03,Brand6,356.25,395.35,3.38,Frozen,365.0,2024-08-23,2025-10-16,0,Sep-Oct
+PROD-1039,Product 39,Grocery,SubCat11,SUP-14,Brand10,395.51,994.3,8.28,Fragile,90.0,2024-12-19,2026-02-22,1,Mar-May
+PROD-1040,Product 40,Clothing,SubCat4,SUP-14,Brand1,303.77,329.49,15.57,Ambient,,2024-07-04,2026-01-17,1,Sep-Oct
+PROD-1041,Product 41,Clothing,SubCat7,SUP-11,Brand5,463.3,1158.48,9.66,Ambient,,2024-02-15,,0,Sep-Oct
+PROD-1042,Product 42,Books,SubCat6,SUP-18,Brand9,326.24,551.43,19.71,Refrigerated,60.0,2024-08-11,2026-02-24,1,Sep-Oct
+PROD-1043,Product 43,Grocery,SubCat5,SUP-15,Brand2,457.65,1011.22,7.6,Frozen,180.0,2024-02-24,2025-12-01,1,Sep-Oct
+PROD-1044,Product 44,Beauty,SubCat14,SUP-14,Brand2,425.32,237.28,15.02,Refrigerated,30.0,2024-05-04,2026-03-30,0,Nov-Dec
+PROD-1045,Product 45,Furniture,SubCat2,SUP-02,Brand10,225.83,496.57,7.92,Ambient,,2024-08-11,,0,
+PROD-1046,Product 46,Furniture,SubCat13,SUP-07,Brand5,49.51,840.92,16.6,Fragile,30.0,2024-10-28,2026-02-04,1,Jun-Aug
+PROD-1047,Product 47,Home Appliances,SubCat5,SUP-14,Brand16,186.67,170.33,11.42,Ambient,60.0,2024-07-24,2025-11-11,0,Mar-May
+PROD-1048,Product 48,Clothing,SubCat6,SUP-13,Brand4,335.08,163.63,1.36,Ambient,180.0,2024-09-25,,1,Nov-Dec
+PROD-1049,Product 49,Clothing,SubCat11,SUP-19,Brand1,333.63,1163.6,0.83,Fragile,365.0,2024-02-10,2025-12-13,0,Jun-Aug
+PROD-1050,Product 50,Home Appliances,SubCat9,SUP-01,Brand10,296.47,858.94,2.76,Refrigerated,180.0,2024-07-21,2026-01-17,0,
+PROD-1051,Product 51,Beauty,SubCat7,SUP-19,Brand16,138.81,54.08,0.37,Frozen,180.0,2024-06-07,2026-02-28,0,Sep-Oct
+PROD-1052,Product 52,Electronics,SubCat11,SUP-13,Brand16,281.5,481.59,1.6,Ambient,365.0,2024-06-22,2025-12-14,0,
+PROD-1053,Product 53,Clothing,SubCat14,SUP-16,Brand15,192.7,523.06,13.87,Ambient,60.0,2024-04-23,2025-10-23,0,Jun-Aug
+PROD-1054,Product 54,Clothing,SubCat9,SUP-01,Brand11,485.91,894.13,10.73,Frozen,90.0,2024-06-19,2026-03-03,0,Jun-Aug
+PROD-1055,Product 55,Electronics,SubCat6,SUP-12,Brand6,424.76,304.78,15.02,Ambient,180.0,2024-03-27,2025-11-24,1,Nov-Dec
+PROD-1056,Product 56,Home Appliances,SubCat1,SUP-10,Brand2,361.42,225.28,18.27,Frozen,180.0,2024-02-09,2026-03-27,1,Nov-Dec
+PROD-1057,Product 57,Electronics,SubCat2,SUP-13,Brand9,119.52,101.64,11.74,Frozen,60.0,2024-09-18,2025-11-04,1,Mar-May
+PROD-1058,Product 58,Clothing,SubCat15,SUP-14,Brand16,129.52,516.84,14.55,Frozen,90.0,2024-11-20,2026-02-23,0,Sep-Oct
+PROD-1059,Product 59,Home Appliances,SubCat5,SUP-18,Brand4,22.14,827.76,15.17,Fragile,180.0,2024-02-28,2026-03-31,1,
+PROD-1060,Product 60,Electronics,SubCat3,SUP-18,Brand3,355.91,74.54,7.62,Refrigerated,180.0,2024-09-28,2026-01-29,0,Sep-Oct
+PROD-1061,Product 61,Beauty,SubCat10,SUP-20,Brand13,57.22,1098.68,4.9,Refrigerated,90.0,2024-09-18,2026-02-12,1,
+PROD-1062,Product 62,Home Appliances,SubCat5,SUP-08,Brand16,220.79,533.61,4.18,Fragile,,2024-04-09,2026-03-10,1,Sep-Oct
+PROD-1063,Product 63,Clothing,SubCat1,SUP-16,Brand3,102.46,291.55,5.1,Refrigerated,365.0,2024-06-27,2025-12-29,0,Jun-Aug
+PROD-1064,Product 64,Books,SubCat2,SUP-08,Brand2,448.09,117.18,5.57,Refrigerated,,2024-06-28,2025-11-17,0,Jun-Aug
+PROD-1065,Product 65,Furniture,SubCat10,SUP-09,Brand5,238.73,223.52,4.22,Refrigerated,365.0,2024-11-26,2025-11-22,0,Sep-Oct
+PROD-1066,Product 66,Clothing,SubCat7,SUP-14,Brand5,282.51,1121.86,17.58,Ambient,365.0,2024-03-16,2025-12-22,1,Mar-May
+PROD-1067,Product 67,Sports,SubCat6,SUP-16,Brand10,348.37,767.73,15.16,Fragile,180.0,2024-04-30,2026-03-20,1,Jun-Aug
+PROD-1068,Product 68,Furniture,SubCat12,SUP-01,Brand3,71.39,622.45,1.03,Refrigerated,365.0,2024-02-22,2025-12-26,1,Mar-May
+PROD-1069,Product 69,Clothing,SubCat13,SUP-13,Brand8,303.0,790.25,5.45,Fragile,30.0,2024-03-15,2026-03-27,1,Jun-Aug
+PROD-1070,Product 70,Furniture,SubCat6,SUP-11,Brand4,270.84,525.63,0.54,Refrigerated,90.0,2024-05-11,2026-03-14,0,Nov-Dec
+PROD-1071,Product 71,Grocery,SubCat7,SUP-22,Brand14,103.12,877.4,10.01,Refrigerated,90.0,2024-04-11,2025-09-25,1,Nov-Dec
+PROD-1072,Product 72,Clothing,SubCat10,SUP-22,Brand8,471.54,62.02,9.58,Fragile,30.0,2024-03-29,2026-03-05,1,Sep-Oct
+PROD-1073,Product 73,Home Appliances,SubCat9,SUP-13,Brand17,300.24,681.41,16.64,Frozen,90.0,2024-11-04,2025-09-24,1,
+PROD-1074,Product 74,Home Appliances,SubCat2,SUP-06,Brand13,348.0,194.58,6.22,Fragile,60.0,2024-03-19,2026-02-25,1,Nov-Dec
+PROD-1075,Product 75,Grocery,SubCat7,SUP-15,Brand15,440.47,148.6,16.35,Frozen,90.0,2024-12-01,2025-11-12,1,Jun-Aug
+PROD-1076,Product 76,Beauty,SubCat15,SUP-05,Brand15,312.93,413.55,19.36,Ambient,90.0,2024-02-08,2025-10-18,0,Jun-Aug
+PROD-1077,Product 77,Grocery,SubCat10,SUP-20,Brand10,149.23,114.7,1.86,Fragile,90.0,2024-03-31,2025-09-13,0,Nov-Dec
+PROD-1078,Product 78,Grocery,SubCat4,SUP-18,Brand14,54.54,117.52,15.86,Frozen,365.0,2024-11-17,2025-10-04,1,Nov-Dec
+PROD-1079,Product 79,Furniture,SubCat5,SUP-01,Brand10,229.35,377.14,11.84,Refrigerated,,2024-09-09,2026-02-13,1,
+PROD-1080,Product 80,Electronics,SubCat1,SUP-13,Brand2,110.78,1175.52,9.65,Ambient,60.0,2024-08-25,2026-03-15,0,Nov-Dec
+PROD-1081,Product 81,Home Appliances,SubCat12,SUP-19,Brand4,209.42,214.52,8.47,Fragile,90.0,2024-10-15,2025-12-04,1,Sep-Oct
+PROD-1082,Product 82,Electronics,SubCat7,SUP-19,Brand7,441.87,25.51,15.71,Frozen,60.0,2024-10-23,2026-02-08,1,
+PROD-1083,Product 83,Grocery,SubCat1,SUP-22,Brand7,163.52,917.22,12.82,Frozen,365.0,2024-08-17,2026-02-08,0,Nov-Dec
+PROD-1084,Product 84,Beauty,SubCat9,SUP-01,Brand9,62.8,969.26,16.12,Fragile,60.0,2024-12-14,2026-01-10,1,Jun-Aug
+PROD-1085,Product 85,Home Appliances,SubCat15,SUP-03,Brand3,179.44,418.83,18.07,Frozen,60.0,2024-10-16,,1,Nov-Dec
+PROD-1086,Product 86,Clothing,SubCat13,SUP-21,Brand6,453.6,560.29,12.38,Fragile,30.0,2024-11-25,2025-11-12,1,Sep-Oct
+PROD-1087,Product 87,Clothing,SubCat9,SUP-14,Brand8,137.52,781.48,19.61,Frozen,365.0,2024-11-21,2026-03-22,1,Sep-Oct
+PROD-1088,Product 88,Clothing,SubCat11,SUP-05,Brand6,324.55,62.43,12.2,Refrigerated,90.0,2024-11-15,2026-02-11,1,Jun-Aug
+PROD-1089,Product 89,Furniture,SubCat12,SUP-15,Brand3,2.26,1139.23,12.77,Fragile,,2024-06-14,2025-09-13,1,
+PROD-1090,Product 90,Sports,SubCat12,SUP-06,Brand6,177.58,1064.58,11.14,Fragile,,2024-11-17,2025-10-15,0,Jun-Aug
+PROD-1091,Product 91,Grocery,SubCat12,SUP-02,Brand1,153.78,316.77,1.91,Ambient,,2024-06-10,2026-02-28,1,Nov-Dec
+PROD-1092,Product 92,Sports,SubCat11,SUP-09,Brand14,84.0,23.29,14.56,Refrigerated,,2024-03-18,2025-12-10,1,Jun-Aug
+PROD-1093,Product 93,Books,SubCat4,SUP-13,Brand15,267.98,1120.46,10.99,Fragile,90.0,2024-08-13,2025-09-22,1,
+PROD-1094,Product 94,Furniture,SubCat6,SUP-11,Brand16,243.45,603.74,9.07,Frozen,,2024-02-04,2025-12-23,0,Mar-May
+PROD-1095,Product 95,Clothing,SubCat7,SUP-07,Brand10,346.83,649.56,18.22,Frozen,365.0,2024-08-28,2026-02-12,1,Jun-Aug
+PROD-1096,Product 96,Home Appliances,SubCat2,SUP-15,Brand2,136.17,822.34,6.03,Frozen,365.0,2024-08-14,2025-11-24,0,
+PROD-1097,Product 97,Furniture,SubCat11,SUP-11,Brand8,123.57,740.94,10.52,Ambient,60.0,2024-11-19,2025-11-19,1,Mar-May
+PROD-1098,Product 98,Home Appliances,SubCat15,SUP-11,Brand10,85.81,1132.95,13.98,Fragile,30.0,2024-06-04,2026-03-10,0,
+PROD-1099,Product 99,Electronics,SubCat6,SUP-13,Brand10,110.94,1133.38,15.95,Frozen,180.0,2024-05-20,2026-03-11,1,
+PROD-1100,Product 100,Electronics,SubCat10,SUP-09,Brand15,279.93,1041.3,9.24,Ambient,,2024-10-29,2026-02-13,1,Mar-May
+PROD-1101,Product 101,Home Appliances,SubCat6,SUP-14,Brand3,203.11,765.5,16.86,Ambient,180.0,2024-01-29,2026-01-08,1,Jun-Aug
+PROD-1102,Product 102,Clothing,SubCat11,SUP-09,Brand8,34.32,962.13,15.4,Fragile,180.0,2024-06-29,2026-01-07,1,Mar-May
+PROD-1103,Product 103,Sports,SubCat14,SUP-03,Brand9,128.45,814.22,1.42,Frozen,180.0,2024-09-16,2026-01-12,0,Jun-Aug
+PROD-1104,Product 104,Grocery,SubCat2,SUP-16,Brand7,124.94,690.17,1.01,Refrigerated,60.0,2024-02-07,2025-09-29,0,
+PROD-1105,Product 105,Furniture,SubCat12,SUP-01,Brand14,348.76,158.56,12.45,Frozen,365.0,2024-06-07,2025-10-06,1,Jun-Aug
+PROD-1106,Product 106,Furniture,SubCat15,SUP-18,Brand4,356.71,974.39,7.01,Refrigerated,,2024-08-24,2025-12-07,1,Sep-Oct
+PROD-1107,Product 107,Clothing,SubCat5,SUP-02,Brand8,75.75,985.66,4.26,Refrigerated,90.0,2024-08-19,2025-12-31,0,Mar-May
+PROD-1108,Product 108,Grocery,SubCat9,SUP-12,Brand5,498.87,753.0,11.64,Frozen,60.0,2024-01-20,2025-12-10,0,Mar-May
+PROD-1109,Product 109,Electronics,SubCat5,SUP-08,Brand9,134.86,985.41,6.9,Refrigerated,365.0,2024-01-30,2026-03-17,0,Nov-Dec
+PROD-1110,Product 110,Sports,SubCat11,SUP-21,Brand5,488.35,783.52,10.79,Ambient,90.0,2024-07-07,2025-10-19,0,
+PROD-1111,Product 111,Grocery,SubCat7,SUP-03,Brand3,206.7,251.99,9.26,Ambient,365.0,2024-05-26,2025-11-20,0,
+PROD-1112,Product 112,Electronics,SubCat6,SUP-21,Brand2,18.46,332.38,11.74,Frozen,,2024-02-09,2025-10-09,0,Jun-Aug
+PROD-1113,Product 113,Grocery,SubCat7,SUP-02,Brand6,173.85,261.43,8.07,Fragile,60.0,2024-11-26,2026-03-24,0,Sep-Oct
+PROD-1114,Product 114,Books,SubCat12,SUP-01,Brand10,317.91,455.82,13.98,Ambient,180.0,2024-02-16,2025-10-27,0,
+PROD-1115,Product 115,Furniture,SubCat5,SUP-08,Brand10,340.99,51.56,3.68,Frozen,60.0,2024-11-10,2025-12-09,0,Sep-Oct
+PROD-1116,Product 116,Books,SubCat9,SUP-07,Brand15,266.41,743.81,13.96,Refrigerated,60.0,2024-10-31,2026-03-14,1,Nov-Dec
+PROD-1117,Product 117,Grocery,SubCat3,SUP-01,Brand4,225.0,407.18,8.29,Ambient,,2024-09-16,2025-10-17,1,Mar-May
+PROD-1118,Product 118,Furniture,SubCat4,SUP-20,Brand15,277.34,788.59,17.5,Frozen,180.0,2024-07-15,2025-12-23,1,Sep-Oct
+PROD-1119,Product 119,Sports,SubCat7,SUP-05,Brand10,297.16,465.55,10.35,Frozen,180.0,2024-08-24,,0,
+PROD-1120,Product 120,Clothing,SubCat11,SUP-08,Brand13,42.26,819.53,19.46,Fragile,30.0,2024-10-24,2026-02-20,0,Mar-May
+PROD-1121,Product 121,Books,SubCat7,SUP-05,Brand9,186.09,412.05,12.08,Refrigerated,30.0,2024-10-10,2025-12-27,0,Sep-Oct
+PROD-1122,Product 122,Clothing,SubCat11,SUP-16,Brand17,122.6,316.53,4.55,Refrigerated,365.0,2024-01-22,2025-09-17,0,Sep-Oct
+PROD-1123,Product 123,Electronics,SubCat12,SUP-22,Brand16,401.96,597.76,16.45,Refrigerated,90.0,2024-08-18,2026-02-24,1,Jun-Aug
+PROD-1124,Product 124,Electronics,SubCat15,SUP-04,Brand15,236.21,833.0,6.97,Frozen,30.0,2024-10-19,2025-12-20,1,Mar-May
+PROD-1125,Product 125,Beauty,SubCat3,SUP-19,Brand3,491.74,421.26,7.02,Frozen,,2024-11-29,2026-01-19,1,Sep-Oct
+PROD-1126,Product 126,Electronics,SubCat10,SUP-07,Brand2,200.61,1124.29,0.73,Refrigerated,60.0,2024-04-06,2026-03-02,0,Jun-Aug
+PROD-1127,Product 127,Electronics,SubCat10,SUP-15,Brand14,408.58,51.83,11.02,Frozen,180.0,2024-06-13,2026-02-12,1,
+PROD-1128,Product 128,Furniture,SubCat5,SUP-09,Brand11,399.58,504.45,10.74,Fragile,60.0,2024-11-05,2025-12-22,1,Sep-Oct
+PROD-1129,Product 129,Sports,SubCat7,SUP-12,Brand9,77.06,1161.26,7.18,Frozen,,2024-08-31,,1,Jun-Aug
+PROD-1130,Product 130,Electronics,SubCat9,SUP-06,Brand1,255.08,659.83,17.89,Frozen,60.0,2024-09-13,2025-09-14,0,Jun-Aug
+PROD-1131,Product 131,Home Appliances,SubCat14,SUP-20,Brand3,348.51,511.05,2.66,Ambient,180.0,2024-03-18,2025-12-07,0,Mar-May
+PROD-1132,Product 132,Sports,SubCat1,SUP-20,Brand8,429.46,684.38,6.67,Fragile,30.0,2024-02-01,2025-10-26,0,Jun-Aug
+PROD-1133,Product 133,Home Appliances,SubCat5,SUP-04,Brand1,164.33,693.23,6.5,Ambient,90.0,2024-08-18,2025-11-26,0,Sep-Oct
+PROD-1134,Product 134,Home Appliances,SubCat5,SUP-06,Brand9,111.68,879.32,1.94,Refrigerated,180.0,2024-02-22,2026-02-25,0,Nov-Dec
+PROD-1135,Product 135,Clothing,SubCat4,SUP-10,Brand2,356.15,157.59,9.67,Refrigerated,180.0,2024-06-24,2025-12-06,1,
+PROD-1136,Product 136,Grocery,SubCat7,SUP-04,Brand6,405.13,303.77,13.79,Fragile,180.0,2024-12-31,2025-09-30,0,Sep-Oct
+PROD-1137,Product 137,Home Appliances,SubCat13,SUP-19,Brand16,175.64,698.75,10.28,Frozen,365.0,2024-02-13,2026-03-09,0,Sep-Oct
+PROD-1138,Product 138,Clothing,SubCat10,SUP-01,Brand17,49.9,1041.2,3.22,Ambient,365.0,2024-09-15,2026-01-09,1,
+PROD-1139,Product 139,Electronics,SubCat10,SUP-10,Brand15,470.38,676.43,7.61,Fragile,180.0,2024-11-26,2025-10-01,1,
+PROD-1140,Product 140,Home Appliances,SubCat11,SUP-19,Brand9,199.99,290.12,0.15,Ambient,,2024-03-29,2025-11-13,0,Jun-Aug
+PROD-1141,Product 141,Grocery,SubCat6,SUP-22,Brand6,259.84,817.41,17.38,Frozen,180.0,2024-01-21,2026-01-14,1,Sep-Oct
+PROD-1142,Product 142,Beauty,SubCat8,SUP-13,Brand14,419.18,889.19,1.78,Ambient,365.0,2024-05-06,2025-09-30,0,Jun-Aug
+PROD-1143,Product 143,Books,SubCat8,SUP-13,Brand16,338.49,289.69,11.99,Fragile,365.0,2024-12-28,2025-10-03,0,Mar-May
+PROD-1144,Product 144,Clothing,SubCat8,SUP-07,Brand3,368.14,456.39,19.73,Frozen,60.0,2024-08-12,2025-12-29,1,Jun-Aug
+PROD-1145,Product 145,Beauty,SubCat11,SUP-03,Brand16,106.12,643.52,10.78,Frozen,,2024-08-12,2026-02-28,0,Mar-May
+PROD-1146,Product 146,Clothing,SubCat4,SUP-19,Brand12,271.64,598.39,18.49,Fragile,30.0,2024-09-25,,1,Nov-Dec
+PROD-1147,Product 147,Books,SubCat9,SUP-21,Brand14,348.5,470.59,4.8,Frozen,60.0,2024-09-24,2026-01-30,1,Sep-Oct
+PROD-1148,Product 148,Grocery,SubCat8,SUP-08,Brand11,115.82,360.67,15.22,Ambient,365.0,2024-11-08,2026-03-25,1,Mar-May
+PROD-1149,Product 149,Sports,SubCat13,SUP-04,Brand11,89.13,124.48,10.67,Refrigerated,60.0,2024-03-22,2025-11-05,1,Nov-Dec
+PROD-1150,Product 150,Books,SubCat15,SUP-10,Brand4,491.12,68.91,14.44,Fragile,60.0,2024-07-05,2025-11-10,0,
+PROD-1151,Product 151,Furniture,SubCat13,SUP-22,Brand6,259.28,1150.46,1.34,Ambient,60.0,2024-07-09,2026-03-09,1,Jun-Aug
+PROD-1152,Product 152,Beauty,SubCat12,SUP-20,Brand11,131.89,1017.34,3.04,Frozen,,2024-05-24,2025-12-20,1,Nov-Dec
+PROD-1153,Product 153,Home Appliances,SubCat3,SUP-04,Brand14,498.13,429.11,2.75,Refrigerated,30.0,2024-07-17,,0,Mar-May
+PROD-1154,Product 154,Electronics,SubCat11,SUP-19,Brand16,482.78,1148.38,13.77,Ambient,30.0,2024-07-28,2025-11-17,0,Sep-Oct
+PROD-1155,Product 155,Furniture,SubCat2,SUP-02,Brand10,280.03,813.74,16.9,Fragile,180.0,2024-06-22,2025-12-17,1,
+PROD-1156,Product 156,Home Appliances,SubCat5,SUP-12,Brand13,441.55,581.61,15.02,Frozen,365.0,2024-12-13,2026-03-13,0,
+PROD-1157,Product 157,Home Appliances,SubCat9,SUP-18,Brand2,95.98,594.17,0.71,Fragile,90.0,2024-11-02,2026-01-09,1,Nov-Dec
+PROD-1158,Product 158,Clothing,SubCat11,SUP-14,Brand15,140.88,104.52,17.36,Ambient,,2024-01-27,2025-12-06,1,Nov-Dec
+PROD-1159,Product 159,Books,SubCat11,SUP-22,Brand3,350.78,114.59,7.15,Refrigerated,30.0,2024-11-19,2025-11-19,0,Jun-Aug
+PROD-1160,Product 160,Sports,SubCat10,SUP-12,Brand11,423.64,724.92,8.0,Ambient,365.0,2024-11-27,2025-09-13,0,
+PROD-1161,Product 161,Beauty,SubCat6,SUP-03,Brand9,428.45,666.68,2.19,Ambient,365.0,2024-06-20,2025-11-01,1,
+PROD-1162,Product 162,Home Appliances,SubCat2,SUP-17,Brand11,203.45,259.21,14.77,Frozen,,2024-02-03,2026-02-26,1,Jun-Aug
+PROD-1163,Product 163,Clothing,SubCat14,SUP-21,Brand4,444.11,1135.7,3.73,Fragile,,2024-06-17,2026-03-17,0,Sep-Oct
+PROD-1164,Product 164,Beauty,SubCat13,SUP-11,Brand13,425.76,938.65,11.32,Ambient,365.0,2024-02-18,2025-11-19,0,Jun-Aug
+PROD-1165,Product 165,Books,SubCat4,SUP-01,Brand17,467.95,140.59,16.83,Ambient,180.0,2024-10-12,2026-02-17,1,Mar-May
+PROD-1166,Product 166,Sports,SubCat11,SUP-14,Brand1,393.1,1117.46,1.88,Refrigerated,30.0,2024-12-13,2025-10-01,1,Mar-May
+PROD-1167,Product 167,Furniture,SubCat5,SUP-16,Brand15,335.16,1169.23,10.75,Refrigerated,90.0,2024-07-16,2025-11-19,1,Nov-Dec
+PROD-1168,Product 168,Books,SubCat4,SUP-04,Brand14,291.18,1195.14,4.74,Fragile,90.0,2024-05-25,2026-03-11,0,Jun-Aug
+PROD-1169,Product 169,Electronics,SubCat13,SUP-14,Brand2,187.4,71.77,6.92,Fragile,90.0,2024-05-09,2025-10-20,1,Jun-Aug
+PROD-1170,Product 170,Books,SubCat4,SUP-12,Brand7,470.19,885.76,9.53,Frozen,60.0,2024-12-02,,0,Nov-Dec
+PROD-1171,Product 171,Home Appliances,SubCat3,SUP-21,Brand17,486.88,657.37,7.17,Fragile,30.0,2024-11-04,2025-10-22,0,Sep-Oct
+PROD-1172,Product 172,Sports,SubCat1,SUP-15,Brand12,143.39,848.47,13.01,Refrigerated,60.0,2024-03-17,2025-11-15,0,Jun-Aug
+PROD-1173,Product 173,Books,SubCat1,SUP-05,Brand16,154.07,1162.54,9.64,Fragile,60.0,2024-06-19,2025-10-18,1,
+PROD-1174,Product 174,Home Appliances,SubCat4,SUP-14,Brand15,243.84,827.2,11.73,Ambient,365.0,2024-02-11,2025-11-03,1,Jun-Aug
+PROD-1175,Product 175,Home Appliances,SubCat8,SUP-06,Brand2,225.32,1005.17,14.76,Fragile,60.0,2024-10-25,2025-10-14,0,Sep-Oct
+PROD-1176,Product 176,Sports,SubCat10,SUP-17,Brand7,497.24,1040.91,11.2,Fragile,180.0,2024-12-05,2025-10-28,0,Jun-Aug
+PROD-1177,Product 177,Books,SubCat14,SUP-21,Brand9,89.61,1006.98,11.77,Frozen,180.0,2024-03-13,2025-11-07,1,
+PROD-1178,Product 178,Books,SubCat13,SUP-09,Brand5,11.0,514.18,11.33,Ambient,,2024-06-28,2026-03-24,1,Mar-May
+PROD-1179,Product 179,Clothing,SubCat2,SUP-20,Brand10,247.96,270.98,7.64,Frozen,,2024-06-07,2025-10-18,0,Mar-May
+PROD-1180,Product 180,Beauty,SubCat8,SUP-18,Brand15,91.05,479.0,6.82,Refrigerated,30.0,2024-12-01,2026-01-23,1,Sep-Oct
+PROD-1181,Product 181,Clothing,SubCat7,SUP-16,Brand16,184.5,1070.82,18.0,Fragile,30.0,2024-12-23,2025-09-16,1,Sep-Oct
+PROD-1182,Product 182,Books,SubCat15,SUP-15,Brand4,372.6,180.19,12.19,Fragile,180.0,2024-12-05,2025-10-24,1,
+PROD-1183,Product 183,Furniture,SubCat11,SUP-14,Brand1,361.03,618.42,4.96,Refrigerated,,2024-07-19,2025-11-24,1,Mar-May
+PROD-1184,Product 184,Books,SubCat10,SUP-19,Brand8,155.41,283.71,10.02,Frozen,365.0,2024-03-07,2025-11-12,0,Mar-May
+PROD-1185,Product 185,Electronics,SubCat4,SUP-09,Brand6,272.19,699.66,6.67,Ambient,,2024-10-31,2026-01-13,1,Mar-May
+PROD-1186,Product 186,Home Appliances,SubCat12,SUP-11,Brand10,255.39,1036.45,18.68,Frozen,60.0,2024-12-28,2025-10-07,1,Mar-May
+PROD-1187,Product 187,Grocery,SubCat12,SUP-08,Brand1,318.89,1057.03,0.25,Frozen,90.0,2024-02-13,2025-12-05,0,
+PROD-1188,Product 188,Books,SubCat7,SUP-03,Brand14,126.73,287.84,4.58,Ambient,365.0,2024-06-07,2026-03-16,0,Sep-Oct
+PROD-1189,Product 189,Electronics,SubCat8,SUP-09,Brand3,295.76,1089.69,7.37,Fragile,90.0,2024-10-13,2025-12-15,0,Sep-Oct
+PROD-1190,Product 190,Electronics,SubCat7,SUP-15,Brand8,489.49,712.31,9.81,Frozen,90.0,2024-07-11,2026-02-07,1,Nov-Dec
+PROD-1191,Product 191,Beauty,SubCat4,SUP-08,Brand4,244.4,423.51,17.03,Refrigerated,180.0,2024-11-25,2026-02-23,1,Sep-Oct
+PROD-1192,Product 192,Sports,SubCat3,SUP-15,Brand15,453.24,851.28,1.85,Ambient,90.0,2024-06-17,2025-09-29,0,Mar-May
+PROD-1193,Product 193,Books,SubCat11,SUP-19,Brand4,218.33,580.59,16.14,Fragile,90.0,2024-03-06,2026-01-02,1,Jun-Aug
+PROD-1194,Product 194,Sports,SubCat12,SUP-20,Brand5,176.34,456.7,1.21,Ambient,60.0,2024-12-09,,1,Mar-May
+PROD-1195,Product 195,Furniture,SubCat1,SUP-22,Brand16,323.26,847.58,16.86,Refrigerated,30.0,2024-12-25,2025-12-27,0,Mar-May
+PROD-1196,Product 196,Grocery,SubCat15,SUP-13,Brand10,335.12,302.23,1.13,Ambient,180.0,2024-12-16,2026-03-04,1,Sep-Oct
+PROD-1197,Product 197,Electronics,SubCat13,SUP-11,Brand17,432.36,399.65,0.46,Ambient,,2024-09-26,2025-12-02,1,Nov-Dec
+PROD-1198,Product 198,Home Appliances,SubCat14,SUP-01,Brand9,116.63,524.17,13.97,Frozen,60.0,2024-02-17,2025-12-06,0,
+PROD-1199,Product 199,Home Appliances,SubCat13,SUP-16,Brand14,250.6,308.15,19.95,Refrigerated,90.0,2024-11-26,2026-03-07,0,Jun-Aug
+PROD-1200,Product 200,Sports,SubCat15,SUP-11,Brand16,286.86,489.22,17.94,Refrigerated,,2024-12-09,2025-12-23,0,Jun-Aug
+PROD-1201,Product 201,Electronics,SubCat2,SUP-06,Brand16,384.74,687.91,11.56,Refrigerated,60.0,2024-08-04,2025-12-14,1,Nov-Dec
+PROD-1202,Product 202,Beauty,SubCat13,SUP-16,Brand8,23.71,890.46,18.36,Ambient,365.0,2024-09-17,2026-02-19,0,Mar-May
+PROD-1203,Product 203,Sports,SubCat7,SUP-07,Brand15,497.29,921.8,0.21,Refrigerated,365.0,2024-07-04,2025-11-04,1,
+PROD-1204,Product 204,Grocery,SubCat4,SUP-12,Brand5,236.03,988.23,19.5,Refrigerated,180.0,2024-01-10,2026-02-11,1,
+PROD-1205,Product 205,Sports,SubCat3,SUP-09,Brand13,141.22,894.33,9.87,Refrigerated,90.0,2024-07-04,2025-11-24,1,
+PROD-1206,Product 206,Electronics,SubCat13,SUP-11,Brand7,441.98,818.84,14.49,Frozen,180.0,2024-06-07,,1,Sep-Oct
+PROD-1207,Product 207,Books,SubCat12,SUP-09,Brand17,374.36,288.82,16.44,Refrigerated,365.0,2024-04-02,2026-01-12,0,Mar-May
+PROD-1208,Product 208,Beauty,SubCat9,SUP-20,Brand5,476.63,483.27,14.4,Ambient,60.0,2024-04-19,2026-03-08,0,Jun-Aug
+PROD-1209,Product 209,Electronics,SubCat8,SUP-09,Brand3,166.71,575.87,10.75,Frozen,,2024-06-23,,0,Jun-Aug
+PROD-1210,Product 210,Beauty,SubCat1,SUP-18,Brand9,277.28,104.06,9.58,Refrigerated,30.0,2024-09-05,2026-01-29,1,Mar-May
+PROD-1211,Product 211,Clothing,SubCat9,SUP-01,Brand14,287.0,636.4,16.79,Refrigerated,90.0,2024-04-08,2025-12-31,1,Jun-Aug
+PROD-1212,Product 212,Clothing,SubCat4,SUP-17,Brand11,490.21,526.42,4.18,Frozen,180.0,2024-04-25,2026-01-18,0,Sep-Oct
+PROD-1213,Product 213,Home Appliances,SubCat15,SUP-07,Brand17,39.52,963.52,19.36,Refrigerated,,2024-03-11,2025-10-15,0,
+PROD-1214,Product 214,Beauty,SubCat14,SUP-03,Brand9,154.24,1173.59,14.25,Ambient,,2024-03-20,2026-01-17,0,Jun-Aug
+PROD-1215,Product 215,Grocery,SubCat2,SUP-08,Brand1,97.07,669.43,4.07,Ambient,30.0,2024-02-09,2026-03-04,0,Sep-Oct
+PROD-1216,Product 216,Sports,SubCat8,SUP-14,Brand10,135.7,390.61,14.75,Refrigerated,60.0,2024-05-31,2026-01-23,0,
+PROD-1217,Product 217,Clothing,SubCat3,SUP-16,Brand10,243.67,56.86,10.64,Ambient,30.0,2024-02-21,2025-09-17,0,Mar-May
+PROD-1218,Product 218,Sports,SubCat13,SUP-18,Brand16,187.6,1109.95,14.17,Frozen,30.0,2024-09-16,2026-03-20,1,Mar-May
+PROD-1219,Product 219,Sports,SubCat8,SUP-08,Brand5,198.56,1103.34,15.38,Refrigerated,60.0,2024-10-03,2025-11-06,1,Sep-Oct
